@@ -211,8 +211,6 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.19.0)
-    motherfucking-jekyll-theme (0.1.0)
-      jekyll (~> 3.4)
     nokogiri (1.15.4-x64-mingw-ucrt)
       racc (~> 1.4)
     octokit (4.25.1)
@@ -263,7 +261,6 @@ DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.6)
   minima (~> 2.0)
-  motherfucking-jekyll-theme
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)

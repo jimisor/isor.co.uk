@@ -22,7 +22,7 @@ url: "http://isor.co.uk" # the base hostname & protocol for your site, e.g. http
 
 # Build settings
 markdown: kramdown
-remote_theme: pages-themes/dinky@v0.2.0
+theme: minima
 
 plugins:
   - jekyll-feed
