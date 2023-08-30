@@ -22,7 +22,6 @@ url: "http://isor.co.uk" # the base hostname & protocol for your site, e.g. http
 
 # Build settings
 markdown: kramdown
-theme: moving
 plugins:
   - jekyll-feed
 
@@ -39,9 +38,3 @@ plugins:
 #   - vendor/ruby/
 
 destination: docs/
-
-moving:
-  about_you: isor.co.uk
-  avatar_url: https://i.loli.net/2019/09/07/wiBh3uMWRUaLX5K.png
-  date_format: "%b %d"
-  back_to: "Index"
