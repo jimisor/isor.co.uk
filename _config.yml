@@ -16,7 +16,7 @@
 title: isor.co.uk
 email: admin@isor.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Homepage of Jim Kennedy
+  isor.co.uk
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://isor.co.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
