@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title: isor.co.uk
 order: 1
 ---
