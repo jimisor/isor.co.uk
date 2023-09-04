@@ -1,7 +1,5 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: about
 ---
 
 About page for isor.co.uk.

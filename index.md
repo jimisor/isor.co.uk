@@ -1,7 +1,5 @@
 ---
-layout: page
-title: isor.co.uk
-order: 1
+layout: home
 ---
 
 Holding page for isor.co.uk.
