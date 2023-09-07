@@ -3,6 +3,11 @@ layout: default
 title: Jim Kennedy's CV
 ---
 
+## CV
+
+- [Work history](#work-history)
+- [Education](#education)
+
 ## Work history
 
 ### 2020 to present - SmartCitizen - Principle Developer
