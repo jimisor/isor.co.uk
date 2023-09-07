@@ -3,10 +3,10 @@ layout: default
 title: Work log
 ---
 
-## Summary
+## Work log
 
-Here is a high level technical log of work I've completed. Most recent
-first back to 2021.
+This is a high level log of work I've completed. Most recent first
+back to 2021.
 
 ## Log
 
