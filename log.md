@@ -9,7 +9,7 @@ This is a high level log of work I've completed. Most recent first
 back to 2021.
 
 - Implemented a single sign on integration using Azure AD. Used
-  OAuth 2.0 authorization code flow.
+  OAuth 2.0 authorisation code flow.
 
 - Implemented a software integration importing ITSO HOPS transactions
   from Amazon S3 into a Sql Server database.
