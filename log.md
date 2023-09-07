@@ -3,12 +3,10 @@ layout: default
 title: Work log
 ---
 
-## Summary
+## Work log
 
 This is a high level log of work I've completed. Most recent first
 back to 2021.
-
-## The log
 
 - Implemented a single sign on integration using Azure AD. Used
   OAuth 2.0 authorization code flow.
