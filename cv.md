@@ -39,14 +39,14 @@ Development of Windows applications and web-based software.
 One-year work placement at the Jeallot's Hill research and development
 centre.
 
-# Education
+## Education
 
-- 2007 BSc Computing Informatics University of Plymouth
+2007 BSc Computing Informatics University of Plymouth
 
 Core modules included database design and information retrieval, AI,
 software design and programming. Complimentary modules in business,
 maths and professional/industry practice.
 
-- 2002 A Levels Penwith College, Penzance.
+2002 A Levels Penwith College, Penzance.
 
-- 2000 GCSEs Mounts Bay School, Penzance.
+2000 GCSEs Mounts Bay School, Penzance.

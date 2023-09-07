@@ -1,6 +1,5 @@
-
 ---
-layout: home
+layout: default
 title: Work log
 ---
 
