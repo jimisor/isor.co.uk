@@ -1,6 +1,6 @@
-title: Jim Kennedy's Personal Site
+title: Jim Kennedy
 author: Jim Kennedy
-email: admin@isor.co.uk
+email: jim@isor.co.uk
 description: CV and links
 url: "https://isor.co.uk"
 
@@ -10,7 +10,7 @@ plugins:
   - jekyll-feed
 
 moving:
-  about_you: Jim Kennedy software developer
+  about_you: Software developer
   avatar_url: avatar.jpg
   date_format: "%b %d"
   back_to: "Index"
