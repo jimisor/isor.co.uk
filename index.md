@@ -3,4 +3,4 @@ layout: default
 ---
 
 - [CV](/cv.html)
-- [Recent work log](/log.html)
+- [Work log](/log.html)
