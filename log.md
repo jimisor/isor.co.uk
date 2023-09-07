@@ -3,7 +3,7 @@ layout: default
 title: Work log
 ---
 
-## Work log
+# Work log
 
 This is a high level log of work I've completed. Most recent first
 back to 2021.

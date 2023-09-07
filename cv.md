@@ -3,7 +3,7 @@ layout: default
 title: Jim Kennedy's CV
 ---
 
-## CV
+# CV
 
 - [Work history](#work-history)
 - [Education](#education)
