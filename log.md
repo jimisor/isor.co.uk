@@ -5,8 +5,8 @@ title: Work log
 
 # Work log
 
-This is a high level log of work I've completed. Most recent first
-back to 2021.
+This is a high level log of the technical work I've completed. Most recent first
+back to ~2021.
 
 - Implemented a single sign on integration using Azure AD. Used
   OAuth 2.0 authorisation code flow.
