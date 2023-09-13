@@ -8,6 +8,9 @@ title: Work log
 This is a high level log of the technical work I've completed. Most recent first
 back to ~2021.
 
+- Implemented team code review and automated build, test, release and
+  deploy of existing software using Azure Devops.
+
 - Implemented a single sign on integration using Azure AD. Used
   OAuth 2.0 authorisation code flow.
 
