@@ -23,7 +23,7 @@ the team.
 
 ### 2015 to 2017 - HeadForwards - Software Developer
 
-Part of a team delivering a micro-service a architecture. Took
+Part of a large team delivering a micro-service architecture. Took
 responsibility for the development of key services.
 
 ### 2013 to 2015 - Altcom - Senior Developer
