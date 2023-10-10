@@ -8,6 +8,10 @@ title: Work log
 This is a high level log of the technical work I've completed. Most recent first
 back to ~2021.
 
+- Developed [Kusto Query
+  Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
+  (KQL) queries for common firewall investigations.
+
 - Ported a legacy application from a Windows Service to Azure
   Webjob. With new config management, scheduling, and logging. Built
   and released via Azure Devops pipeline.
