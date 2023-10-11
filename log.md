@@ -8,7 +8,7 @@ title: Work log
 This is a high level log of the technical work I've completed. Most recent first
 back to ~2021.
 
-- Developed [Kusto Query
+- Wrote [Kusto Query
   Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
   (KQL) queries for common firewall investigations.
 
