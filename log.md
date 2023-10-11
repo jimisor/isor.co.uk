@@ -10,7 +10,7 @@ back to ~2021.
 
 - Wrote [Kusto Query
   Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
-  (KQL) queries for common firewall investigations.
+  queries for common firewall investigations.
 
 - Ported a legacy application from a Windows Service to Azure
   Webjob. With new config management, scheduling, and logging. Built
