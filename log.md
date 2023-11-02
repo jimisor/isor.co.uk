@@ -5,8 +5,9 @@ title: Work log
 
 # Work log
 
-This is a high level log of the technical work I've completed. Most recent first
-back to ~2021.
+This is a high level log of the recent technical work I've completed. Latest first. 
+
+- Investigated an intermittent bug in an Android Java app. Added improved validation, assertion, logging, and error handling code to the problematic SOAP client.
 
 - Wrote [Kusto Query
   Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
