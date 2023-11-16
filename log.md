@@ -7,6 +7,8 @@ title: Work log
 
 This is a high level log of the recent technical work I've completed. Latest first. 
 
+- Migrated multiple on-prem .Net applications and associated databases to Azure App Services and Sql Managed Instance.
+
 - Investigated an intermittent bug in an Android Java app. Added improved validation, assertion, logging, and error handling code to the problematic SOAP client.
 
 - Wrote [Kusto Query
