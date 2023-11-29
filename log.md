@@ -7,6 +7,8 @@ title: Work log
 
 This is a high level log of the recent technical work I've completed. Latest first. 
 
+- Bug fixes and small UI improvements to React Native mobile application.
+
 - Migrated .Net WCF service from on-prem to Azure App Service.
 
 - Migrated multiple on-prem .Net applications and associated databases to Azure App Services and Sql Managed Instance.
