@@ -5,15 +5,21 @@ title: Work log
 
 # Work log
 
-This is a high level log of the recent technical work I've completed. Latest first. 
+This is a high level log of the recent technical work I've completed. Latest first.
+
+- Designed multi-app Azure Application Gateway architecture. Including
+  WAF Policy hierarchy, logging and reporting.
 
 - Bug fixes and small UI improvements to React Native mobile application.
 
 - Migrated .Net WCF service from on-prem to Azure App Service.
 
-- Migrated multiple on-prem .Net applications and associated databases to Azure App Services and Sql Managed Instance.
+- Migrated multiple on-prem .Net applications and associated databases
+  to Azure App Services and Sql Managed Instance.
 
-- Investigated an intermittent bug in an Android Java app. Added improved validation, assertion, logging, and error handling code to the problematic SOAP client.
+- Investigated an intermittent bug in an Android Java app. Added
+  improved validation, assertion, logging, and error handling code to
+  the problematic SOAP client.
 
 - Wrote [Kusto Query
   Language](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/)
@@ -26,8 +32,8 @@ This is a high level log of the recent technical work I've completed. Latest fir
 - Implemented team code review and automated build, test, release and
   deploy of existing software using Azure Devops.
 
-- Implemented a single sign on integration using Azure AD. Used
-  OAuth 2.0 authorisation code flow.
+- Implemented a single sign on integration using Azure AD. Used OAuth
+  2.0 authorisation code flow.
 
 - Implemented a software integration importing ITSO HOPS transactions
   from Amazon S3 into a Sql Server database.
