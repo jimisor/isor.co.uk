@@ -10,7 +10,7 @@ This is a high level log of the recent technical work I've completed. Latest fir
 ## 2024
 
 - Extended an error/log reporting tool to support Log4Net events
-  originating from Azure WebJobs. Including updating a dotnet core
+  originating from Azure WebJobs. Included amending a dotnet core
   rest api and [Mithril.js](https://mithril.js.org) front end.
 
 - Migrated Windows Service code base to Azure Web Job.
