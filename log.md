@@ -5,7 +5,7 @@ title: Work log
 
 # Work log
 
-This is a high level log of the recent technical work I've completed. Latest first.
+This is a high level log of the recent technical work I've completed.
 
 ## 2024
 
