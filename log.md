@@ -15,7 +15,7 @@ This is a high level log of the recent technical work I've completed.
 
 - Migrated Windows Service code base to Azure Web Job.
 
-## 2023
+## 2023 and prior
 
 - Designed multi-app Azure Application Gateway architecture. Including
   WAF Policy hierarchy, logging and reporting.
