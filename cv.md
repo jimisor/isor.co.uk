@@ -39,7 +39,7 @@ government.
 
 Development of Windows applications and web-based software.
 
-### 2005 to 2006 - Syngenta - Software Developer
+### 2005 to 2006 - Syngenta - Junior Developer
 
 One-year work placement at the Jeallot's Hill research and development
 centre.
