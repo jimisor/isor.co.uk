@@ -48,9 +48,9 @@ centre.
 
 ### 2007 BSc Computing Informatics University of Plymouth
 
-Core modules included database design and information retrieval, AI,
-software design and programming. Complimentary modules in business,
-maths and professional/industry practice.
+Core modules included database design and information retrieval, AI
+algorithms, software design and programming. Complimentary modules in
+business, maths and professional/industry practice.
 
 ### 2002 A Levels Penwith College, Penzance.
 
