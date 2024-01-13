@@ -7,6 +7,15 @@ title: Work log
 
 This is a high level log of the recent technical work I've completed. Latest first.
 
+## 2024
+
+- Extended an error/log reporting tool to support Log4Net events
+  originating from Azure WebJobs.
+
+- Migrated Windows Service code base to Azure Web Job.
+
+## 2023
+
 - Designed multi-app Azure Application Gateway architecture. Including
   WAF Policy hierarchy, logging and reporting.
 
