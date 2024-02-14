@@ -9,7 +9,7 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
-- Improved Sql Server database migration procedure to use differential
+- Improved Sql Server database migration procedure by using differential
   backups for faster excution.
 
 - Used Sql Server [DBCC SHRINKDATABASE](https://learn.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-shrinkdatabase-transact-sql?view=sql-server-ver16)
