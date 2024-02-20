@@ -9,11 +9,9 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
-- Improved Sql Server database migration procedure by using differential
-  backups for faster excution.
-
-- Used Sql Server [DBCC SHRINKDATABASE](https://learn.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-shrinkdatabase-transact-sql?view=sql-server-ver16)
-  to recover 400GB of stoage.
+- Sql Server admin; improved migration procedure by using differential
+  backups for faster excution; used Sql Server [DBCC SHRINKDATABASE](https://learn.microsoft.com/en-us/sql/t-sql/database-console-commands/dbcc-shrinkdatabase-transact-sql?view=sql-server-ver16)
+  to recover 400GB of stoage; performance monitoring and query execution investigations.
 
 - Migrated on-prem .Net application and database to Azure App Service
   and Sql Managed Instance.
