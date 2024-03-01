@@ -11,7 +11,7 @@ This is a high level log of the technical work I've completed.
 
 - Front end development. Server side rendered html/cshtml, js and css.
 
-- On-boarded third party developers to build integrations against rest
+- On-boarded third party developers building integrations against rest
   apis.  
 
 - Sql Server admin; improved migration procedure by using differential
