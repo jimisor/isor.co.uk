@@ -9,6 +9,9 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
+- Configured WebJob release pipeline in Azure Devops to deploy to multiple
+  App Services. Using custom log4net.Appender.AdoNetAppender parameters.
+
 - Front end development. Server side rendered html/cshtml, js and css.
 
 - On-boarded third party developers building integrations against rest
