@@ -5,7 +5,10 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="home-title">
-          <p class="home-heading">{{ site.title }}</p>
+          <p class="home-heading">
+            <img src="{{ 'home.jpg' | relative_url }}" />
+            {{ site.title }}
+          </p>
         </div>
         {{ content }}
       </div>
