@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Jim Kennedy's CV
