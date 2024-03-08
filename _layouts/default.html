@@ -5,8 +5,10 @@
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         <div class="home-title">
-          <p class="home-heading">
-            <img src="{{ 'home.jpg' | relative_url }}" />
+          <p class="home-heading">            
+            <a href="{{ site.baseurl }}/">
+              <img style="margin: 0;padding: 0;border-radius: 0;vertical-align: middle;" src="{{ 'home.jpg' | relative_url }}" />
+            </a>
             {{ site.title }}
           </p>
         </div>
