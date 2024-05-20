@@ -9,6 +9,10 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
+- Migrated on-prem .Net application to Azure WebJob.
+
+<April to May time off to walk the [Camino Frances](https://en.wikipedia.org/wiki/French_Way)>
+
 - Azure App Service capacity and scale planning.
 
 - Configured WebJob release pipeline in Azure Devops to deploy to multiple
