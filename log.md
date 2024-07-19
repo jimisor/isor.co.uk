@@ -9,6 +9,10 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
+- Migrated on-prem .Net web app and database to Azure App Service and Sql Managed Instance.
+
+- SSL certificate renewal and deployment into Azure infrastructure.
+
 - Migrated on-prem .Net application to Azure WebJob.
 
 (April to May time off to walk the [Camino Frances](https://en.wikipedia.org/wiki/French_Way))
