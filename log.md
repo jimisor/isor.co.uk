@@ -15,7 +15,7 @@ This is a high level log of the technical work I've completed.
 
 - Migrated on-prem .Net web application and database to Azure App Service and Sql Managed Instance.
 
-- SSL certificate renewal and deployment into Azure infrastructure.
+- SSL certificate deployment into Azure infrastructure.
 
 - Migrated on-prem .Net application to Azure WebJob.
 
