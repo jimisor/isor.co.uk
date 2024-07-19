@@ -11,7 +11,7 @@ This is a high level log of the technical work I've completed.
 
 - Developed Redis cache session state managaement solution.
 
-- Migrated on-prem .Net web app and database to Azure App Service and Sql Managed Instance.
+- Migrated on-prem .Net web application and database to Azure App Service and Sql Managed Instance.
 
 - SSL certificate renewal and deployment into Azure infrastructure.
 
