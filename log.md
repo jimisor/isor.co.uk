@@ -9,6 +9,8 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
+- Solved Azure App Service Plan performance issue.
+
 - Developed Redis cache session state managaement solution.
 
 - Migrated on-prem .Net web application and database to Azure App Service and Sql Managed Instance.
