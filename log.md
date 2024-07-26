@@ -9,6 +9,10 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
+- Improved performance by precompilation of .Net views using MvcBuildViews.
+
+- Resolved multiple security vulnerabilities in .Net web application. XSS, auth, and firewall compatability.
+
 - Solved Azure App Service Plan performance issue.
 
 - Developed Redis cache session state managaement solution.
