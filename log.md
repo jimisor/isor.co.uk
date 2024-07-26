@@ -13,7 +13,7 @@ This is a high level log of the technical work I've completed.
 
 - Resolved security vulnerabilities in .Net web application. XSS, auth, and firewall compatability.
 
-- Solved Azure App Service Plan performance issue.
+- Solved Azure App Service Plan performance issue. Increased vCPUs, but at a lower price band :).
 
 - Developed Redis cache session state managaement solution.
 
