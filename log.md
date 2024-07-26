@@ -9,7 +9,7 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
-- Improved performance by precompilation of .Net views using MvcBuildViews.
+- Improved performance of web application by precompilation of .Net views using MvcBuildViews.
 
 - Resolved multiple security vulnerabilities in .Net web application. XSS, auth, and firewall compatability.
 
