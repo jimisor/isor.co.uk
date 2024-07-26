@@ -11,7 +11,7 @@ This is a high level log of the technical work I've completed.
 
 - Improved performance of web application by precompilation of .Net views using MvcBuildViews.
 
-- Resolved multiple security vulnerabilities in .Net web application. XSS, auth, and firewall compatability.
+- Resolved security vulnerabilities in .Net web application. XSS, auth, and firewall compatability.
 
 - Solved Azure App Service Plan performance issue.
 
