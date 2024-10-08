@@ -9,13 +9,30 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
+- JWT refresh token implementation. 
+
+- CORS configuration of rest apis to support SPA.  
+
+- Configuration and deployment of a [NextJS](https://nextjs.org/) SPA. Static export deployment to Azure.
+
+- Migrated on-prem .Net application and database to Azure App Service
+  and Sql Managed Instance. Handles ~1M requests per day.
+  
+- Built Azure monitoring dashboard to monitor: costs, total requests, response status, total requests (by backend), last byte response time (by backend), App Service Plan CPU/Memory, SQL Managed Instances CPU.
+  
+- Upgraded Azure App Services from P1V2 to P1V3. Scaled Azure Sql Managed Instance to support additional load.
+
+- Diagnosis and resolution of high SQL Server CPU usage. https://learn.microsoft.com/en-us/troubleshoot/sql/database-engine/performance/troubleshoot-high-cpu-usage-issues
+
+- On-boarding of a new developer onto team.
+
 - Improved performance of web application by precompilation of .Net views using MvcBuildViews.
 
-- Resolved security vulnerabilities in .Net web application. XSS, auth, and firewall compatability.
+- Resolved security vulnerabilities in .Net web application. XSS, auth, and firewall compatibility.
 
 - Solved Azure App Service Plan performance issue.
 
-- Developed Redis cache session state managaement solution.
+- Developed Redis cache session state management solution.
 
 - Migrated on-prem .Net web application and database to Azure App Service and Sql Managed Instance.
 
