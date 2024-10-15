@@ -9,6 +9,9 @@ This is a high level log of the technical work I've completed.
 
 ## 2024
 
+- Migrated on-prem .Net application and database to Azure App Service
+  and Sql Managed Instance.
+
 - JWT refresh token implementation. 
 
 - CORS configuration of rest apis to support SPA.  
