@@ -9,7 +9,7 @@ This is a log of the technical work I've completed.
 
 ## 2025
 
-- Admin of Google Play and iOs App Store applications. 
+- Admin of Google Play and iOs App Store applications. Account verification. Upgrade of SDKs.
 
 - Moved a component of a monolithic web app into a rest api architecture. To
   support the development of an external React application. Including
