@@ -5,8 +5,16 @@ title: Work log
 
 # Work log
 
-This is a high level log of the technical work I've completed.
+This is a log of the technical work I've completed.
 
+## 2025
+
+- Moved a component of a monolithic web app into a rest api architecture. To
+  support development of an external React application. Including
+  automated tests, auth, integration with 3rd party applications
+  (credit check, payments, [ITSO HOPS](https://www.itso.org.uk/)),
+  OpenApi documentation.
+  
 ## 2024
 
 - Migrated on-prem .Net application and database to Azure App Service
