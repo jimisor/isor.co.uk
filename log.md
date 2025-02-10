@@ -12,7 +12,7 @@ This is a log of the technical work I've completed.
 - Admin of Google Play and iOs App Store applications. 
 
 - Moved a component of a monolithic web app into a rest api architecture. To
-  support development of an external React application. Including
+  support the development of an external React application. Including
   automated tests, auth, integration with 3rd party applications
   (credit check, payments, [ITSO HOPS](https://www.itso.org.uk/)),
   OpenApi documentation.
