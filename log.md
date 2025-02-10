@@ -9,6 +9,8 @@ This is a log of the technical work I've completed.
 
 ## 2025
 
+- Admin of Google Play and iOs App Store applications. 
+
 - Moved a component of a monolithic web app into a rest api architecture. To
   support development of an external React application. Including
   automated tests, auth, integration with 3rd party applications
