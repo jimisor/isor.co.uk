@@ -53,8 +53,6 @@ This is a log of the technical work I've completed.
 
 - Migrated on-prem .Net application to Azure WebJob.
 
-(April to May time off to walk the [Camino Frances](https://en.wikipedia.org/wiki/French_Way))
-
 - Azure App Service capacity and scale planning.
 
 - Configured WebJob release pipeline in Azure Devops to deploy to multiple
