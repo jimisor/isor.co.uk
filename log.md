@@ -9,6 +9,8 @@ This is a log of the technical work I've completed.
 
 ## 2025
 
+- Configuration and deployment of Azure Webjobs.  
+
 - Admin of Google Play and iOs App Store applications. Account verification. Upgrade of SDKs.
 
 - Moved component of a monolithic web app into a rest api architecture. To
