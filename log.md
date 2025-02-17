@@ -5,7 +5,7 @@ title: Work log
 
 # Work log
 
-This is a log of the technical work I've completed.
+This is a log of technical work I've completed.
 
 ## 2025
 
