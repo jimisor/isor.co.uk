@@ -13,7 +13,7 @@ This is a log of technical work I've completed.
 
 - Admin of Google Play and iOs App Store applications. Account verification. Upgrade of SDKs.
 
-- Ported component of a monolithic web app into a rest api architecture. To
+- Ported component of a server side rendered web app into a rest api architecture. To
   support the development of an external React application. Including
   automated tests, auth, integration with 3rd party applications
   (credit check, payments, [ITSO HOPS](https://www.itso.org.uk/)),
