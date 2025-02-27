@@ -9,7 +9,7 @@ This is a log of technical work I've completed.
 
 ## 2025
 
-- Configuration and deployment of a new instance of [SmartConnect](https://www.smartcitizen.net/products-services/smartconnect.aspx). 
+- Deployment of a new instance of [SmartConnect](https://www.smartcitizen.net/products-services/smartconnect.aspx). 
 
 - Implemented new features into an existing rest api. Database backed crud
   as well as integration with external rest apis.    
