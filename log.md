@@ -9,6 +9,9 @@ This is a log of technical work I've completed.
 
 ## 2025
 
+- Implemented new features into an existing rest api. Database backed crud
+  as well as integration with external rest apis.    
+
 - Configuration and deployment of Azure Webjobs.  
 
 - Admin of Google Play and iOs App Store applications. Account verification. Upgrade of SDKs.
