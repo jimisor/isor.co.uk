@@ -9,6 +9,10 @@ This is a log of technical work I've completed.
 
 ## 2025
 
+- Converted a .Net Framework (4.7.2) C# rest api from synchronous to
+  asynchronous. Ensuring Elmah logging could correctly access the HttpContext
+  in code after an await.
+
 - Deployment of a new instance of [SmartConnect](https://www.smartcitizen.net/products-services/smartconnect.aspx) as Azure
   App Service and configuration of Application Gateway. 
 
