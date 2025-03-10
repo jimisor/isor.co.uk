@@ -15,14 +15,14 @@ This is a log of technical work I've completed.
 - Deployment of a new instance of [SmartConnect](https://www.smartcitizen.net/products-services/smartconnect.aspx) as Azure
   App Service and configuration of Application Gateway. 
 
-- Implemented new features into an existing rest api. Database backed crud
+- Added new features into an existing rest api. Database backed crud
   as well as integration with external rest apis.    
 
 - Configuration and deployment of Azure Webjobs.  
 
 - Admin of Google Play and iOs App Store applications. Account verification. Upgrade of SDKs.
 
-- Ported component of a server side rendered web app into a rest api architecture. To
+- Moved server side rendered web app to a rest api architecture. To
   support the development of an external React application. Including
   automated tests, auth, integration with 3rd party applications
   (credit check, payments, [ITSO HOPS](https://www.itso.org.uk/)),
