@@ -9,6 +9,8 @@ This is a log of technical work I've completed.
 
 ## 2025
 
+- Update api Access-Control-Allow-Headers to explicitly list CORS headers (Authorization) rather than use *. 
+
 - Converted a .Net Framework (4.7.2) C# rest api from synchronous to
   asynchronous. (Included manually managing HttpContext, for logging etc).
 
