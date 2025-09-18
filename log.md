@@ -9,6 +9,15 @@ This is a log of technical work I've completed.
 
 ## 2025
 
+- Admin of Azure Application Gateway. Certificate management, TLS upgrade,
+  WAF policy admin. 
+
+- Lead development of a project to deliver a rest api. 9 month
+  implementation timescale. Api contained 30+ endpoints, included auth;
+  unit and integration testing; integration with multiple 3rd party
+  systems; integration with payment providers. Apis supported complex
+  customer workflows and replaced a long standing monolith.
+
 - Update api Access-Control-Allow-Headers to explicitly list CORS headers (Authorization) rather than use *. 
 
 - Converted a .Net Framework (4.7.2) C# rest api from synchronous to
