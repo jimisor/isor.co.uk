@@ -9,6 +9,10 @@ This is a log of technical work I've completed.
 
 ## 2025
 
+- Developed an integration with [GovPay](https://www.payments.service.gov.uk/) PSP in C#.
+
+- Developed an integration with [NMI](https://www.nmi.com/eu/) PSP in C#. 
+
 - Admin of Azure Application Gateway. Certificate management, TLS upgrade,
   WAF policy admin. 
 
@@ -18,7 +22,8 @@ This is a log of technical work I've completed.
   systems; integration with payment providers. Apis supported complex
   customer workflows and replaced a long standing monolith.
 
-- Update api Access-Control-Allow-Headers to explicitly list CORS headers (Authorization) rather than use *. 
+- Upgrade of an instance of [SmartConnect](https://www.smartcitizen.net/products-services/smartconnect.aspx) including
+  release/versioning of updated rest apis.
 
 - Converted a .Net Framework (4.7.2) C# rest api from synchronous to
   asynchronous. (Included manually managing HttpContext, for logging etc).
